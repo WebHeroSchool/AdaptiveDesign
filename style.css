@@ -1,4 +1,4 @@
-@media (min-width:320px) {
+ @media (min-width:320px) {
   .header__title .main__subtitle {
     font-size: 15px;
   }
@@ -6,7 +6,7 @@
     font-size: 10px;
   } 
   }
-@media (min-width:481px) {
+ @media (min-width:481px) {
   .header__title .main__subtitle {
     font-size: 24px;
   }
@@ -14,7 +14,7 @@
     font-size: 15px;
     } 
   }
-@media (min-width:641px) {
+ @media (min-width:641px) {
   .header__title .main__subtitle {
     font-size: 32px;
   }
